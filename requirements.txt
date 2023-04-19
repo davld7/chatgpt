@@ -1,0 +1,7 @@
+pip install openai
+py -3.11 -m pip install openai
+py -3.11 -m pip install --upgrade openai
+
+pip install "typer[all]"
+py -3.11 -m pip install "typer[all]"
+py -3.11 -m pip install --upgrade "typer[all]"
